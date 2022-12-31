@@ -978,7 +978,7 @@ span.text-red {
   right: 0;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: rgb(241 241 241);
+  background-color: #fff;
   padding: 50px;
   border-radius: 15px;
   overflow: auto;
