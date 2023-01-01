@@ -1021,3 +1021,9 @@ span.text-red {
   border: none;
   cursor: pointer;
 }
+@media screen and (max-width: 1000px) {
+  .modal-styles{
+    min-width: 90vw;
+  }
+  
+}
